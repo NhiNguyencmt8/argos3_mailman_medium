@@ -1,0 +1,14 @@
+//
+// Created by nhinguyencmt8 on 12/13/23.
+//
+
+#ifndef ARGOS3_MAILMAN_MEDIUM_KHEPERAIV_OBSTACLEAVOIDANCE_H
+#define ARGOS3_MAILMAN_MEDIUM_KHEPERAIV_OBSTACLEAVOIDANCE_H
+
+
+class kheperaiv_obstacleavoidance {
+
+};
+
+
+#endif //ARGOS3_MAILMAN_MEDIUM_KHEPERAIV_OBSTACLEAVOIDANCE_H
